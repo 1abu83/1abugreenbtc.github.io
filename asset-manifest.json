@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/bundle.js",
+    "static/media/news.jpg": "/static/media/news.2f20437d1ced1dd82467.jpg",
+    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/baby.jpg": "/static/media/baby.bb5749f191396ac4c69a.jpg",
+    "static/media/miner.jpg": "/static/media/miner.237af80d2e8bc09fc090.jpg",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/MaterialIcons.ttf": "/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/FontAwesome.ttf": "/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/market.png": "/static/media/market.50f26527ab814135f2de.png",
+    "favicon.ico": "/favicon.ico",
+    "static/media/gretvenwallet.png": "/static/media/gretvenwallet.b17d8850afd8a6863439.png",
+    "static/media/treding.png": "/static/media/treding.b1b3944ffe8899fe8ef5.png",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "bundle.js.map": "/static/js/bundle.js.map"
+  },
+  "entrypoints": [
+    "static/js/bundle.js"
+  ]
+}
